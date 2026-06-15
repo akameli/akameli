@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Ali 👋
 
-<!--
-**akameli/akameli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Django Developer focused on building scalable web applications, CRM systems, admin dashboards, and REST APIs.
 
-Here are some ideas to get you started:
+I enjoy designing backend systems that automate business workflows and simplify management processes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+**Backend**
+- Python
+- Django
+- Django REST Framework
+
+**Frontend**
+- HTML
+- CSS
+- Bootstrap
+
+**Database**
+- MySQL
+- PostgreSQL
+
+**DevOps**
+- Linux Server
+- Nginx
+- Gunicorn
+
+---
+
+## 💼 What I Build
+
+- Custom CRM Systems
+- Admin Dashboards
+- REST API Backends
+- Business Automation Systems
+- Web Applications for startups and businesses
+
+---
+
+## 📂 Featured Projects
+
+- [Django CRM System](#) (Coming soon...)
+- [Support Ticket System](#) (Coming soon...)
+- [Admin Dashboard](#) (Coming soon...)
+
+---
+
+## 🌍 Availability
+
+✅ Available for freelance projects  
+✅ Remote work
+
+---
+
+## 📫 Contact
+
+- **Website**: [https://seyrosam.ir/](https://seyrosam.ir/)
+- **Telegram**: [@akameli_68](https://t.me/akameli_68)
+- **GitHub**: [akameli](https://github.com/akameli)
