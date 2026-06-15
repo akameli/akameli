@@ -1,8 +1,8 @@
 # Hi, I'm Ali 👋
 
-Django Developer focused on building scalable web applications, CRM systems, admin dashboards, and REST APIs.
+Django Developer Focused on Building Scalable web Applications, CRM systems, Admin Dashboards, and REST APIs.
 
-I enjoy designing backend systems that automate business workflows and simplify management processes.
+I enjoy Designing Backend Systems that Automate Business Workflows and Simplify Management Processes.
 
 ---
 
